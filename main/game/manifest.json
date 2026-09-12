@@ -9,28 +9,32 @@
       "type": "character",
       "local": "characters/allies/ally_human_f.webp",
       "tags": [
-        "동료"
+        "인간",
+        "검사"
       ]
     },
     "ally_elf_f": {
       "type": "character",
       "local": "characters/allies/ally_elf_f.webp",
       "tags": [
-        "동료"
+        "엘프",
+        "정찰자"
       ]
     },
     "ally_beast_f": {
       "type": "character",
       "local": "characters/allies/ally_beast_f.webp",
       "tags": [
-        "동료"
+        "수인",
+        "도적"
       ]
     },
     "ally_dryad_f": {
       "type": "character",
       "local": "characters/allies/ally_dryad_f.webp",
       "tags": [
-        "동료"
+        "드라이어드",
+        "드루이드"
       ]
     },
     "protagonist_m_01": {
